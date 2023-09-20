@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shuvo Majumer</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<img align="right" alt="coding"width="400" src="https://tenor.com/en-GB/view/hacker-python-coding-glitch-gif-24209207"
+<img align="right" alt="coding"width="400" src="https://tenor.com/en-GB/view/hacker-python-coding-glitch-gif-24209207">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avi6999&label=Profile%20views&color=0e75b6&style=flat" alt="avi6999" /> </p>
 
