@@ -3,21 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avi6999&label=Profile%20views&color=0e75b6&style=flat" alt="avi6999" /> </p>
 
-- 🔭 I’m currently studying computer science and technology [To comming.......](To comming.......)
+- 🔭 I’m currently studying computer science and technology.
 
-- 🌱 I’m currently learning **Html,css,python,java**
+- 🌱 I’m currently learning **Html,css,python,java,java Script**
 
-- 👯 I’m looking to collaborate on [To comming.......](To comming.......)
+- 👨‍💻 All of my projects are available at Github
 
-- 🤝 I’m looking for help with [To comming.......](To comming.......)
-
-- 👨‍💻 All of my projects are available at [To comming.......](To comming.......)
-
-- 📝 I regularly write articles on [To comming.......](To comming.......)
-
-- 💬 Ask me about **html,css**
-
-- 📄 Know about my experiences [To comming.......](To comming.......)
+- 💬 Ask me about **html,css,python**
 
 - ⚡ Fun fact **I am a loser**
 
